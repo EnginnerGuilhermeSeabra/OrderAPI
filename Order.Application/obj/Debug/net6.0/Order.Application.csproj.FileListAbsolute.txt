@@ -1,0 +1,38 @@
+D:\Estudo\asyncAwait\Order.Application\obj\Debug\net6.0\Order.Application.csproj.AssemblyReference.cache
+D:\Estudo\asyncAwait\Order.Application\obj\Debug\net6.0\Order.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudo\asyncAwait\Order.Application\obj\Debug\net6.0\Order.Application.AssemblyInfoInputs.cache
+D:\Estudo\asyncAwait\Order.Application\obj\Debug\net6.0\Order.Application.AssemblyInfo.cs
+D:\Estudo\asyncAwait\Order.Application\obj\Debug\net6.0\Order.Application.csproj.CoreCompileInputs.cache
+D:\Estudo\asyncAwait\Order.Application\bin\Debug\net6.0\Order.Application.deps.json
+D:\Estudo\asyncAwait\Order.Application\bin\Debug\net6.0\Order.Application.dll
+D:\Estudo\asyncAwait\Order.Application\bin\Debug\net6.0\ref\Order.Application.dll
+D:\Estudo\asyncAwait\Order.Application\bin\Debug\net6.0\Order.Application.pdb
+D:\Estudo\asyncAwait\Order.Application\bin\Debug\net6.0\Order.Domain.Core.dll
+D:\Estudo\asyncAwait\Order.Application\bin\Debug\net6.0\Order.Domain.dll
+D:\Estudo\asyncAwait\Order.Application\bin\Debug\net6.0\Order.Infra.Validator.dll
+D:\Estudo\asyncAwait\Order.Application\bin\Debug\net6.0\Order.Domain.pdb
+D:\Estudo\asyncAwait\Order.Application\bin\Debug\net6.0\Order.Infra.Validator.pdb
+D:\Estudo\asyncAwait\Order.Application\bin\Debug\net6.0\Order.Domain.Core.pdb
+D:\Estudo\asyncAwait\Order.Application\obj\Debug\net6.0\Order.Application.csproj.CopyComplete
+D:\Estudo\asyncAwait\Order.Application\obj\Debug\net6.0\Order.Application.dll
+D:\Estudo\asyncAwait\Order.Application\obj\Debug\net6.0\ref\Order.Application.dll
+D:\Estudo\asyncAwait\Order.Application\obj\Debug\net6.0\Order.Application.pdb
+D:\New folder\Order.Application\bin\Debug\net6.0\Order.Application.deps.json
+D:\New folder\Order.Application\bin\Debug\net6.0\Order.Application.dll
+D:\New folder\Order.Application\bin\Debug\net6.0\ref\Order.Application.dll
+D:\New folder\Order.Application\bin\Debug\net6.0\Order.Application.pdb
+D:\New folder\Order.Application\bin\Debug\net6.0\Order.Domain.Core.dll
+D:\New folder\Order.Application\bin\Debug\net6.0\Order.Domain.dll
+D:\New folder\Order.Application\bin\Debug\net6.0\Order.Infra.Validator.dll
+D:\New folder\Order.Application\bin\Debug\net6.0\Order.Domain.pdb
+D:\New folder\Order.Application\bin\Debug\net6.0\Order.Infra.Validator.pdb
+D:\New folder\Order.Application\bin\Debug\net6.0\Order.Domain.Core.pdb
+D:\New folder\Order.Application\obj\Debug\net6.0\Order.Application.csproj.AssemblyReference.cache
+D:\New folder\Order.Application\obj\Debug\net6.0\Order.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Order.Application\obj\Debug\net6.0\Order.Application.AssemblyInfoInputs.cache
+D:\New folder\Order.Application\obj\Debug\net6.0\Order.Application.AssemblyInfo.cs
+D:\New folder\Order.Application\obj\Debug\net6.0\Order.Application.csproj.CoreCompileInputs.cache
+D:\New folder\Order.Application\obj\Debug\net6.0\Order.Application.csproj.CopyComplete
+D:\New folder\Order.Application\obj\Debug\net6.0\Order.Application.dll
+D:\New folder\Order.Application\obj\Debug\net6.0\ref\Order.Application.dll
+D:\New folder\Order.Application\obj\Debug\net6.0\Order.Application.pdb

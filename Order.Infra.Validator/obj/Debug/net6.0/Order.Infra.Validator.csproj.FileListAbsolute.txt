@@ -1,0 +1,24 @@
+D:\Estudo\asyncAwait\Order.Infra.Validator\bin\Debug\net6.0\Order.Infra.Validator.deps.json
+D:\Estudo\asyncAwait\Order.Infra.Validator\bin\Debug\net6.0\Order.Infra.Validator.dll
+D:\Estudo\asyncAwait\Order.Infra.Validator\bin\Debug\net6.0\ref\Order.Infra.Validator.dll
+D:\Estudo\asyncAwait\Order.Infra.Validator\bin\Debug\net6.0\Order.Infra.Validator.pdb
+D:\Estudo\asyncAwait\Order.Infra.Validator\obj\Debug\net6.0\Order.Infra.Validator.csproj.AssemblyReference.cache
+D:\Estudo\asyncAwait\Order.Infra.Validator\obj\Debug\net6.0\Order.Infra.Validator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudo\asyncAwait\Order.Infra.Validator\obj\Debug\net6.0\Order.Infra.Validator.AssemblyInfoInputs.cache
+D:\Estudo\asyncAwait\Order.Infra.Validator\obj\Debug\net6.0\Order.Infra.Validator.AssemblyInfo.cs
+D:\Estudo\asyncAwait\Order.Infra.Validator\obj\Debug\net6.0\Order.Infra.Validator.csproj.CoreCompileInputs.cache
+D:\Estudo\asyncAwait\Order.Infra.Validator\obj\Debug\net6.0\Order.Infra.Validator.dll
+D:\Estudo\asyncAwait\Order.Infra.Validator\obj\Debug\net6.0\ref\Order.Infra.Validator.dll
+D:\Estudo\asyncAwait\Order.Infra.Validator\obj\Debug\net6.0\Order.Infra.Validator.pdb
+D:\New folder\Order.Infra.Validator\bin\Debug\net6.0\Order.Infra.Validator.deps.json
+D:\New folder\Order.Infra.Validator\bin\Debug\net6.0\Order.Infra.Validator.dll
+D:\New folder\Order.Infra.Validator\bin\Debug\net6.0\ref\Order.Infra.Validator.dll
+D:\New folder\Order.Infra.Validator\bin\Debug\net6.0\Order.Infra.Validator.pdb
+D:\New folder\Order.Infra.Validator\obj\Debug\net6.0\Order.Infra.Validator.csproj.AssemblyReference.cache
+D:\New folder\Order.Infra.Validator\obj\Debug\net6.0\Order.Infra.Validator.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Order.Infra.Validator\obj\Debug\net6.0\Order.Infra.Validator.AssemblyInfoInputs.cache
+D:\New folder\Order.Infra.Validator\obj\Debug\net6.0\Order.Infra.Validator.AssemblyInfo.cs
+D:\New folder\Order.Infra.Validator\obj\Debug\net6.0\Order.Infra.Validator.csproj.CoreCompileInputs.cache
+D:\New folder\Order.Infra.Validator\obj\Debug\net6.0\Order.Infra.Validator.dll
+D:\New folder\Order.Infra.Validator\obj\Debug\net6.0\ref\Order.Infra.Validator.dll
+D:\New folder\Order.Infra.Validator\obj\Debug\net6.0\Order.Infra.Validator.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ArvEeV2NnQ408ITkNGml4egHaRZiQjmmC65w7NbKorp5s/8R5BJScn3tAYLpEt43zYvhgNKWBotycXaU8z+CSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DevTeamPrisma\\Documents\\Freela_Pedidos\\Order.Infra.Validator\\Order.Infra.Validator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DevTeamPrisma\\.nuget\\packages\\fluentvalidation\\11.8.0\\fluentvalidation.11.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}

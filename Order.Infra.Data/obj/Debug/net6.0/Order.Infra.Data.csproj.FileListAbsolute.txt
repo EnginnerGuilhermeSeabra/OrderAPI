@@ -1,0 +1,38 @@
+D:\Estudo\asyncAwait\Order.Infra.Data\bin\Debug\net6.0\Order.Infra.Data.deps.json
+D:\Estudo\asyncAwait\Order.Infra.Data\bin\Debug\net6.0\Order.Infra.Data.runtimeconfig.json
+D:\Estudo\asyncAwait\Order.Infra.Data\bin\Debug\net6.0\Order.Infra.Data.dll
+D:\Estudo\asyncAwait\Order.Infra.Data\bin\Debug\net6.0\ref\Order.Infra.Data.dll
+D:\Estudo\asyncAwait\Order.Infra.Data\bin\Debug\net6.0\Order.Infra.Data.pdb
+D:\Estudo\asyncAwait\Order.Infra.Data\bin\Debug\net6.0\Order.Domain.Core.dll
+D:\Estudo\asyncAwait\Order.Infra.Data\bin\Debug\net6.0\Order.Domain.dll
+D:\Estudo\asyncAwait\Order.Infra.Data\bin\Debug\net6.0\Order.Domain.pdb
+D:\Estudo\asyncAwait\Order.Infra.Data\bin\Debug\net6.0\Order.Domain.Core.pdb
+D:\Estudo\asyncAwait\Order.Infra.Data\obj\Debug\net6.0\Order.Infra.Data.csproj.AssemblyReference.cache
+D:\Estudo\asyncAwait\Order.Infra.Data\obj\Debug\net6.0\Order.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudo\asyncAwait\Order.Infra.Data\obj\Debug\net6.0\Order.Infra.Data.AssemblyInfoInputs.cache
+D:\Estudo\asyncAwait\Order.Infra.Data\obj\Debug\net6.0\Order.Infra.Data.AssemblyInfo.cs
+D:\Estudo\asyncAwait\Order.Infra.Data\obj\Debug\net6.0\Order.Infra.Data.csproj.CoreCompileInputs.cache
+D:\Estudo\asyncAwait\Order.Infra.Data\obj\Debug\net6.0\Order.Infra.Data.csproj.CopyComplete
+D:\Estudo\asyncAwait\Order.Infra.Data\obj\Debug\net6.0\Order.Infra.Data.dll
+D:\Estudo\asyncAwait\Order.Infra.Data\obj\Debug\net6.0\ref\Order.Infra.Data.dll
+D:\Estudo\asyncAwait\Order.Infra.Data\obj\Debug\net6.0\Order.Infra.Data.pdb
+D:\Estudo\asyncAwait\Order.Infra.Data\obj\Debug\net6.0\Order.Infra.Data.genruntimeconfig.cache
+D:\New folder\Order.Infra.Data\bin\Debug\net6.0\Order.Infra.Data.deps.json
+D:\New folder\Order.Infra.Data\bin\Debug\net6.0\Order.Infra.Data.runtimeconfig.json
+D:\New folder\Order.Infra.Data\bin\Debug\net6.0\Order.Infra.Data.dll
+D:\New folder\Order.Infra.Data\bin\Debug\net6.0\ref\Order.Infra.Data.dll
+D:\New folder\Order.Infra.Data\bin\Debug\net6.0\Order.Infra.Data.pdb
+D:\New folder\Order.Infra.Data\bin\Debug\net6.0\Order.Domain.Core.dll
+D:\New folder\Order.Infra.Data\bin\Debug\net6.0\Order.Domain.dll
+D:\New folder\Order.Infra.Data\bin\Debug\net6.0\Order.Domain.pdb
+D:\New folder\Order.Infra.Data\bin\Debug\net6.0\Order.Domain.Core.pdb
+D:\New folder\Order.Infra.Data\obj\Debug\net6.0\Order.Infra.Data.csproj.AssemblyReference.cache
+D:\New folder\Order.Infra.Data\obj\Debug\net6.0\Order.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Order.Infra.Data\obj\Debug\net6.0\Order.Infra.Data.AssemblyInfoInputs.cache
+D:\New folder\Order.Infra.Data\obj\Debug\net6.0\Order.Infra.Data.AssemblyInfo.cs
+D:\New folder\Order.Infra.Data\obj\Debug\net6.0\Order.Infra.Data.csproj.CoreCompileInputs.cache
+D:\New folder\Order.Infra.Data\obj\Debug\net6.0\Order.Infra.Data.csproj.CopyComplete
+D:\New folder\Order.Infra.Data\obj\Debug\net6.0\Order.Infra.Data.dll
+D:\New folder\Order.Infra.Data\obj\Debug\net6.0\ref\Order.Infra.Data.dll
+D:\New folder\Order.Infra.Data\obj\Debug\net6.0\Order.Infra.Data.pdb
+D:\New folder\Order.Infra.Data\obj\Debug\net6.0\Order.Infra.Data.genruntimeconfig.cache

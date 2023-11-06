@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bDSdJz8EloC1wmICXY29W3aED7L++Y4E2YP4dkYaCHc0crPrL6OGI1Q9mRcAQ8FArzWoJtXDmsZ8LCddXF014w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DevTeamPrisma\\Documents\\Freela_Pedidos\\Order.Domain\\Order.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DevTeamPrisma\\.nuget\\packages\\flunt\\1.0.3\\flunt.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

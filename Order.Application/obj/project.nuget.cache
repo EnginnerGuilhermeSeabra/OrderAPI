@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "81ewReX/Ig3fpPpgXI1NOAkFRvD2hZrkZx0aEji7kwBgkTl6gqCdgZeAeLwKe1Tq6ftPNGwOLlj51Uy8e9mfsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DevTeamPrisma\\Documents\\Freela_Pedidos\\Order.Application\\Order.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DevTeamPrisma\\.nuget\\packages\\fluentvalidation\\11.8.0\\fluentvalidation.11.8.0.nupkg.sha512",
+    "C:\\Users\\DevTeamPrisma\\.nuget\\packages\\flunt\\1.0.3\\flunt.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
